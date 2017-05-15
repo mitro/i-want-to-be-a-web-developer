@@ -36,7 +36,7 @@
 * Сделайте _pull request_ к репозиторию https://github.com/mitro/i-want-to-be-a-web-developer
 * В _pull request_ должна быть папка с вашим ФИО, внутри которой - файл index.html, содержащий HTML-страницу с вашей анкетой в таком виде и с такой информацией:
 
-![Пример анкеты](images/sample.jpg?raw=true)
+![Пример анкеты](images/sample.png?raw=true)
 
 Первый этап заканчивается 26 мая 2017 года в 23-59.
 
